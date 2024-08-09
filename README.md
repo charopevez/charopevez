@@ -5,9 +5,9 @@
 
  ## Hi there 👋
 <div align="center">
- 
- [![Mikhaylov Dmitry on LinkedIn](https://img.shields.io/badge/Mikhaylov%20Dmitry%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-mikhaylov-a460b5aa/)
-
+ <a href="https://www.linkedin.com/in/dmitry-mikhaylov-a460b5aa/" target="_blank">
+  <img src="https://img.shields.io/badge/Dmitry%20Mikhaylov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dmitry Mikhaylov">
+</a>
 </div>
 
 ## [ORG]
