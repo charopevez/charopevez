@@ -2,12 +2,37 @@
  
   ![Profile Views](https://komarev.com/ghpvc/?username=charopevez&color=blue&style=flat-square)
 ----
+
+ ## Hi there 👋
 <div align="center">
-  
- [![Mikhaylov Dmitry on LinkedIn](https://img.shields.io/badge/Mikhaylov%20Dmitry%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-mikhaylov-a460b5aa/)
  
+ [![Mikhaylov Dmitry on LinkedIn](https://img.shields.io/badge/Mikhaylov%20Dmitry%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitry-mikhaylov-a460b5aa/)
+
 </div>
-# Hi there 👋
+
+## [ORG]
+
+## 7ka.dev
+[![7ka.dev GitHub](https://img.shields.io/badge/GitHub-7ka.dev-181717?logo=github)](https://github.com/7ka-dev)
+[![7ka.dev Homepage](https://img.shields.io/badge/Homepage-7ka.dev-blue?logo=web)](https://7ka.dev)
+
+[Organization description]
+
+### Projects:
+- **[Project Name]**: Leading backend development and overseeing project management.
+  - **Repository:** [Backend Repo](https://github.com/7ka-dev/backend-repo)
+  - **Live Demo:** [Project Demo](https://7ka.dev/demo)
+
+---
+
+## Higuma Soft
+[![Higuma Soft GitHub](https://img.shields.io/badge/GitHub-Higuma_Soft-181717?logo=github)](https://github.com/HigumaSoft)
+[![Higuma Soft Homepage](https://img.shields.io/badge/Homepage-Higuma_Soft-blue?logo=web)](https://higumasoft.com)
+
+[Organization description]
+
+[ Projects ]
+
 
 <div align="center">
   
