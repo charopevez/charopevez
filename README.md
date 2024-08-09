@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Dmitry%20Mikhaylov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dmitry Mikhaylov">
 </a>
  <a href="https://www.instagram.com/lesnoytravel/" target="_blank" rel="noopener">
-  <img src="https://img.shields.io/badge/Lesnoy_Travel-IG-405DE6?style=for-the-badge&logo=instagram&logoColor=white" alt="Dmitry Mikhaylov">
+   <img src="https://img.shields.io/badge/Dmitry%20Mikhaylov-833AB4?style=for-the-badge&logo=instagram&logoColor=white" alt="Dmitry Mikhaylov">
 </a>
 </div>
 
