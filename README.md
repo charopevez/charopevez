@@ -27,7 +27,7 @@ I am currently involved in multiple open-source and personal projects, including
 [![SJW GitHub](https://img.shields.io/badge/GitHub-SJW-181717?logo=github)](https://github.com/7ka-dev/sjw)
 ### Stack:
 
-![env](https://skillicons.dev/icons?i=bitbucket,docker)![languages](https://skillicons.dev/icons?i=rust,go,ts)![db](https://skillicons.dev/icons?i=postgres)
+![env](https://skillicons.dev/icons?i=bitbucket,docker)![languages](https://skillicons.dev/icons?i=rust,go,ts)![db](https://skillicons.dev/icons?i=postgres)![cloud](https://skillicons.dev/icons?i=aws)
 
 At 7ka.dev, I lead backend development on Sleepy Joe's Will, a project focused on building an immersive multiplayer experience. I oversee the project’s architecture and backend design, ensuring scalability and high availability. My role includes:
 
