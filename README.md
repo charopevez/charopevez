@@ -36,8 +36,25 @@ At 7ka.dev, I lead backend development on Sleepy Joe's Will, a project focused o
 
 Check out our repositories for more insights:
   - **Repository:** [SJW](https://github.com/7ka-dev/sjw)
-  - **Homepage** [Project Homepage](https://7ka.dev/demo)
+  - **Homepage** [Project Homepage](https://sjw.7ka.dev/)
+### Campaigns / Projects API (supporting SJW)
 
+This is a companion service built to manage campaigns and project data for Sleepy Joe's Will.
+
+### Stack:
+
+![framework](https://skillicons.dev/icons?i=ts) ![framework](https://skillicons.dev/icons?i=hono) ![orm](https://skillicons.dev/icons?i=drizzle) ![validation](https://skillicons.dev/icons?i=zod) ![db](https://skillicons.dev/icons?i=postgres) ![cloud](https://skillicons.dev/icons?i=cloudflare)
+
+Built with:
+
+- **Hono** – Ultra-fast web framework for Cloudflare Workers
+- **Drizzle ORM** – Type-safe SQL for managing schema and migrations
+- **Zod** – Schema validation and data parsing
+- **NeonDB** – Serverless PostgreSQL
+- **Cloudflare Workers** – Edge deployment for API performance
+
+The API is still in development and publicly accessible at:  
+🔗 [https://7ka.dev/api/v1](https://7ka.dev/api/v1)
 ---
 
 ## Higuma Soft
