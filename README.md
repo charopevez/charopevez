@@ -43,7 +43,7 @@ This is a companion service built to manage campaigns and project data for Sleep
 
 ### Stack:
 
-![framework](https://skillicons.dev/icons?i=ts) ![framework](https://skillicons.dev/icons?i=hono) ![orm](https://skillicons.dev/icons?i=drizzle) ![validation](https://skillicons.dev/icons?i=zod) ![db](https://skillicons.dev/icons?i=postgres) ![cloud](https://skillicons.dev/icons?i=cloudflare)
+![framework](https://skillicons.dev/icons?i=ts) ![db](https://skillicons.dev/icons?i=postgres) ![cloud](https://skillicons.dev/icons?i=cloudflare)
 
 Built with:
 
