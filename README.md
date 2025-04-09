@@ -54,7 +54,7 @@ Built with:
 - **Cloudflare Workers** – Edge deployment for API performance
 
 The API is still in development and publicly accessible at:  
-🔗 [https://7ka.dev/api/v1](https://7ka.dev/api/v1)
+🔗 [API](https://7ka.dev/api/v1)
 ---
 
 ## Higuma Soft
