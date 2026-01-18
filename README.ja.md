@@ -42,11 +42,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 アクティビティ (GitHub Activity)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=charopevez&show_icons=true&theme=flat-square&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charopevez&layout=compact&theme=flat-square&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=charopevez&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  
+  <br />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charopevez&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
