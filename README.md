@@ -36,7 +36,7 @@ At 7ka.dev, I lead backend development on Sleepy Joe's Will, a project focused o
 
 Check out our repositories for more insights:
   - **Repository:** [SJW](https://github.com/7ka-dev/sjw)
-  - **Homepage** [Project Homepage](https://sjw.7ka.dev/)
+  - **Homepage** [Project Homepage](https://sjw.time2join.me/)
 ### Campaigns / Projects API (supporting SJW)
 
 This is a companion service built to manage campaigns and project data for Sleepy Joe's Will.
